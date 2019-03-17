@@ -1,0 +1,17 @@
+C:\Users\Administrator\Downloads\howto_draw_curve\bin\Debug\howto_draw_curve.exe
+C:\Users\Administrator\Downloads\howto_draw_curve\bin\Debug\howto_draw_curve.pdb
+C:\Users\Administrator\Downloads\howto_draw_curve\obj\Debug\howto_draw_curve.Properties.Resources.resources
+C:\Users\Administrator\Downloads\howto_draw_curve\obj\Debug\howto_draw_curve.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\howto_draw_curve\obj\Debug\howto_draw_curve.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\howto_draw_curve\obj\Debug\howto_draw_curve.exe
+C:\Users\Administrator\Downloads\howto_draw_curve\obj\Debug\howto_draw_curve.pdb
+C:\Users\Administrator\Downloads\howto_draw_curve\obj\Debug\howto_draw_curve.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\DrawTool\bin\Debug\howto_draw_curve.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\DrawTool\bin\Debug\howto_draw_curve.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\DrawTool\obj\Debug\howto_draw_curve.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\DrawTool\obj\Debug\howto_draw_curve.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\DrawTool\obj\Debug\howto_draw_curve.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\DrawTool\obj\Debug\howto_draw_curve.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\DrawTool\obj\Debug\howto_draw_curve.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\DrawTool\obj\Debug\howto_draw_curve.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\DrawTool\obj\Debug\howto_draw_curve.csprojAssemblyReference.cache
